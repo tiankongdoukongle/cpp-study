@@ -1,2 +1,2 @@
-# cpp-study-
+# cpp-study
 my cpp study process
